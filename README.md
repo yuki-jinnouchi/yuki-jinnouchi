@@ -3,7 +3,7 @@
 
 
 ## Current Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,r,bash,linux,git,github,docker,mysql,aws,gcp,vim,neovim,vscode,ableton,ai,ps&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,r,bash,linux,git,github,docker,mysql,aws,gcp,vim,neovim,vscode,ableton,ai,ps&theme=dark&perline=6)](https://skillicons.dev)
 
 
 <!--
