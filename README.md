@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+## Current Technical Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,r,bash,linux,git,github,docker,mysql,aws,gcp,vim,neovim,vscode,ableton,ai,ps&theme=dark&perline=5)](https://skillicons.dev)
+
+
 <!--
 **yuki-jinnouchi/yuki-jinnouchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
