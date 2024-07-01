@@ -6,7 +6,10 @@ Please check my [LinkedIn Profile](https://www.linkedin.com/in/yuki-jinnouchi/) 
 ----
 
 ## Current Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,r,bash,linux,git,github,docker,mysql,aws,gcp,vim,neovim,vscode,ableton,ai,ps&theme=dark&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,r,bash,linux,git,github,docker,vscode,ableton,ai,ps&theme=dark&perline=9)](https://skillicons.dev)
+
+## Developing Skills
+[![My Skills](https://skillicons.dev/icons?i=cpp,ruby,rails,react,mysql,aws,gcp,vim,neovim&theme=dark&perline=9)](https://skillicons.dev)
 
 ----
 [![Jini's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki-jinnouchi)](https://github.com/anuraghazra/github-readme-stats)
