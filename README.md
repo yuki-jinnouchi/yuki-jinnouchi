@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jini (Yuki Jinnuochi)
-#### originally from Japan, currently live in Berlin.
-My background is Data Engineer/Analyst.<br>
-Please check my [LinkedIn Profile](https://www.linkedin.com/in/yuki-jinnouchi/) to see my details.
+#### Data Engineer/Analyst, originally from Japan, currently live in Berlin.
+
+Please check my [LinkedIn Profile](https://www.linkedin.com/in/yuki-jinnouchi/) to see my career background.
 
 ----
 
